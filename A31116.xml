@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Deposition and farther discovery of the late horrid plot by one Mr. C------, late servant to Sir Tho. C------- in York-shire who arrived at London on Thursday the third of this instant July, and was examined by Sr. Robert Claton : wherein he declared that his said master offered him the summ of one thousand pounds to violate His Majestie's sacred person : and likewise ... that twelve Jesuit-priests are some few days since come over from St. Omers ... with a diabolical resolution to assessinate the life of His Sacred Majesty ... : as likewise the account of Mr. Richard Langhorn's discovery ... wherein he sheweth the vast revenues of the Jesuits in England : as also a true relation of a dreaful fire at Cottering in Northhampton-shire ....</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31116</idno>
+            <idno type="STC">Wing C1</idno>
+            <idno type="STC">ESTC R25959</idno>
+            <idno type="EEBO-CITATION">09304256</idno>
+            <idno type="OCLC">ocm 09304256</idno>
+            <idno type="VID">42664</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42664)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1304:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Deposition and farther discovery of the late horrid plot by one Mr. C------, late servant to Sir Tho. C------- in York-shire who arrived at London on Thursday the third of this instant July, and was examined by Sr. Robert Claton : wherein he declared that his said master offered him the summ of one thousand pounds to violate His Majestie's sacred person : and likewise ... that twelve Jesuit-priests are some few days since come over from St. Omers ... with a diabolical resolution to assessinate the life of His Sacred Majesty ... : as likewise the account of Mr. Richard Langhorn's discovery ... wherein he sheweth the vast revenues of the Jesuits in England : as also a true relation of a dreaful fire at Cottering in Northhampton-shire ....</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.F.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Langhorne, Richard, 1654-1679.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42664:1"/>
+            <pb facs="tcp:42664:1" rendition="simple:additions"/>
+            <p>THE Depoſition, and farther Diſcovery OF THE LATE Horrid PLOT, By One Mr. <hi>C<gap reason="blank" extent="1 chunk"/>,</hi> Late Servant to Sir <hi>Tho. C<gap reason="blank" extent="1 chunk"/>
+               </hi> IN YORK-SHIRE, Who Arrived at <hi>London,</hi> on <hi>Thurſday</hi> the Third of this Inſtant <hi>July,</hi> and was Examined before Sr. Robert Claton;</p>
+            <p>Wherein he declared that his ſaid Maſter offered him the Summ of one Thouſand Pounds to Violate HIS MAJESTIE'S Sacred Perſon:</p>
+            <p>And likewiſe he gives farther Information, that Twelve <hi>JES<g ref="char:V">Ʋ</g>IT-PRIESTS</hi> are ſome few Days ſince come Over from St. <hi>Omers,</hi> and other Places Adjacent, with a Diabolical Reſolution to Aſſeſſinate the Life of His Sacred Majeſty, before the Perrogation of this <hi>Parliament</hi> be Expired.</p>
+            <p>With an Account of their Deſigns therein.</p>
+            <p>AS LIKEWISE The Account of Mr. <hi>Richard Langhorn's</hi> diſ<g ref="char:EOLhyphen"/>covery, on <hi>Thurſday,</hi> as before dated; wherein he ſheweth the vaſt Revenues of the <hi>Jeſuits</hi> in <hi>England.</hi>
+            </p>
+            <p>As alſo a true Relation of a dreadful Fire at <hi>Cottering</hi> in <hi>Northampton-ſhire:</hi> With many other Circumſtances.</p>
+            <p>London, <hi>Printed for F. F.</hi> 
+               <add>[1679]</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42664:2"/>
+            <pb n="1" facs="tcp:42664:2"/>
+            <head>The Depoſition, and farther Diſcovery of the Horrid Plot, &amp;c.</head>
+            <div type="introduction">
+               <p>STill tho' the Plots of wicked and Pernitious are ſe<g ref="char:EOLhyphen"/>cretly contrived, yet Heaven Sifts them out tho' lodg'd in ayr upon a Dragons Wings, or in the Cave of Everlaſting Night; no private Fate can lurk beyond its view in obſcure Caverns and the darkeſt Cells; its Pe<g ref="char:EOLhyphen"/>netrating luſtre comes: and as the Princely <hi>Prophet</hi> does confeſs, <hi>Not Heighth nor Depth, nor Rocks nor Caves, nor Hills, no nor the Wings of Morning in the utmoſt parts of earth, can e're ſecure from an all ſeeing God;</hi> and can the <hi>Roman</hi> cruelties deſigned and laid by Fiends and Men againſt a Sacred Prince, his Vice Roy here below, e're take effect, when in his wrath he to untermands the ſame. Oh! no, as ſoon may Stars drop from their chryſtial Sphears, or all this Fabrick cringe in<g ref="char:EOLhyphen"/>to a <hi>Chaos,</hi> for in his defence will he make bare his arm,
+<pb n="2" facs="tcp:42664:3"/>and ariſe like a mighty Man to break the Teeth of his con<g ref="char:EOLhyphen"/>spiring Foes; the which in part we have already ſeen, and in part his <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that durſt to ſtretch an arm againſt annointed Power, or bend an evil thought) have felt, ſince firſt their cruel Practices were brought to<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t among which take this N<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Diſcovery of a later <hi>Stampas,</hi> as followeth.</p>
+            </div>
+            <div type="narrative">
+               <p>ON Thurſday the <hi>3d.</hi> of this Inſtant <hi>July,</hi> 1679. came a certain Man to Town, and coming into an Inn in <hi>Biſhops-Gate</hi>-Street; after he had ſome time refreſhed himſelf, deſired to ſpeak with the Maſter of the Inn, who being called, in a ſhort time came to him and re<g ref="char:EOLhyphen"/>queſted his buſineſs? the aforeſaid Perſon, <hi>Clement</hi> by name, told him he deſired ſome private confe<g ref="char:EOLhyphen"/>rence with him about a Buſineſs of great impor<g ref="char:EOLhyphen"/>tance: to which the Inn-keeper readily condeſcen<g ref="char:EOLhyphen"/>ded: Whereupon they being in private, the afore<g ref="char:EOLhyphen"/>ſaid <hi>Clement</hi> told him, That he was Servant to one Sir <hi>Tho. Glaſcoone</hi> in <hi>Yorkſhire,</hi> and that he had been for ſome time Privy to the carrying on of the late Plot, and that his comming up to <hi>London</hi> was to make a Diſcovery and farther Depoſition of great Importance, touching his Majeſties Sacred Perſon. The Inn-keeper hearing this, adviſed him to go to
+<pb n="3" facs="tcp:42664:3"/>Sir <hi>Robert Claton,</hi> who was a very Worſhipful and well affected Gentlemen, and before him upon Oath to declare what he knew, and that he ought not to conceal any thing that might turn to the prejudice of his Soveraign: whereupon he taking the Inn keepers advice, immediately went, and before his Worſhip made his farther Diſcovery as his knowledge led him of the emenent Danger that was threatned, the ſubſtance of which was as follows: <hi>Firſt,</hi> That his Maſter relying upon his fidelity (the which in other affairs he had always preſerved invocable) offered him if he would un<g ref="char:EOLhyphen"/>dertake for the <hi>Romiſh</hi> Cauſe to Aſſeſſinate and Murder his Majeſty, (a thought which no Pious Chriſtian could conceive without horror) that for ſo doing he ſhould receive the ſumm of 1000 l. gratuety or reward from the Fathers of the <hi>Romiſh</hi> Church, with many other Graces and Priviledges: <hi>Secondly,</hi> That he had a certain account of Twelve (or thereabouts) <hi>Jeſuits,</hi> lately come over from St. <hi>Omers,</hi> and other places adjacent, on purpoſe, and with a diabolick reſolution to deſtroy his Majeſty, ſeeing (as they moſt impiouſly ſugeſted) that the extreamity of occaſion required it, for that they un<g ref="char:EOLhyphen"/>derſtood the Parliament were preparing a Bill to bar any Roman-Catholique from poſſeſſing this
+<pb n="4" facs="tcp:42664:4"/>Crown, therefore they had but one Card to play, the which they reſolve by one means or other to effect before the Prorogation of the Parliament was expir'd; by the effecting of which: they might place the Crown upon his head they had <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o long deſigned, and put a period to all objections that in that nature might hereafter riſe: This Depoſition thus taken, Sir <hi>Robert</hi> (out of the abundance of his tenderneſs and Loyal care for the preſervation of his Majeſties perſon, upon which the wel<g ref="char:EOLhyphen"/>fare of Three Kingdoms do depend) went im<g ref="char:EOLhyphen"/>mediately and Communicated it unto the Lord High Preſident of his Majeſties Privy Coun<g ref="char:EOLhyphen"/>ſel, who being advertiſed thereof, called a Coun<g ref="char:EOLhyphen"/>ſel, at <hi>White-Hall,</hi> on <hi>Fryday</hi> the <hi>4th.</hi> of this Inſtant; and diſpatcht an Expreſs to his Majeſty to acquaint him therewith, and of the Circumſtances aforeſaid, and to intreat his Majeſty to have an eſpecial care of his Royal Perſon, upon which the good of all his faithful Subjects did depend. This Deponent farther affirms, That he can produce Four other credible Perſons that will confirm the Truth here<g ref="char:EOLhyphen"/>of, and as Coherent evidences joyn with him, <hi>&amp;c.</hi>
+               </p>
+               <p>Theſe are farther to inform the Reader, that Mr. <hi>Richard Langhorne</hi> late Counſellor of the <hi>Tem<g ref="char:EOLhyphen"/>ple,</hi> and now Priſoner in <hi>Newgate,</hi> who received
+<pb n="5" facs="tcp:42664:4"/>Sentence for being a Conſpirator in this Plot; was upon <hi>Thurſday</hi> the <hi>3d.</hi> of this Inſtant, carried before his Majeſties Counſel, then ſitting at <hi>Hampton-Court;</hi> where after ſome Examination and promi<g ref="char:EOLhyphen"/>ſes of Grace, he delivered up certain in Papers, where<g ref="char:EOLhyphen"/>in was ſpecified, that the Jeſuits Lands, Houſes, and other Perſonal Eſtates here in <hi>England,</hi> amounted and were of greater Value, <hi>per Annum,</hi> then the Revenue of both our Univerſities, viz. <hi>Oxford</hi> and <hi>Cambridge</hi> put together: And that he himſelf had purchaſed for them, and in their Names, with Mo<g ref="char:EOLhyphen"/>nies they ordered to be returned him within theſe few years, to the value of 68000 <hi>l. per Annum:</hi> and this is credibly thought to be great part of it Ex<g ref="char:EOLhyphen"/>pended yearly in hiring Villains to fire the City and Suburbs, to Murder thoſe good affected Sub<g ref="char:EOLhyphen"/>jects, who moſt reſiſt their damnable practices.</p>
+               <p>His Majeſty, as is ſuppoſed, upon his humble requeſt, has ſent his Royal Order beyond Sea, to command the ſaid <hi>Langhornes</hi> Sons (who have been for a long time at the Engliſh Seminary in St. <hi>O<g ref="char:EOLhyphen"/>mers,</hi>) that they forthwith repair into <hi>England,</hi> whoſe abſences it is thought have ſo long hindred his Confeſſion, for he not being ignorant of Popiſh cruelty, may paradventure expect that if he ſhould Impeach any one there, or as the Jeſuits term it,
+<pb n="6" facs="tcp:42664:5"/>break the Holy League by a free Confeſſion, that they would uſe in revenging ſome cruel extremity upon his Sons, the which he has always, according to a Fatherly Inclination been tender of: but when they are Arrived a further Confeſſion is expected:</p>
+            </div>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>THeſe are alſo to acquaint the Reader, that there has lately happened a great Fire at <hi>Cot<g ref="char:EOLhyphen"/>tering</hi> in <hi>Northampton ſhire;</hi> the which laſted very vehement for the ſpace of three or four hours, in which time the raped Flames conſumed about Twenty (if not more) Houſes: the Fire began upon a very ſtrong ſubſtantial Houſe, in which houſe it is credibly reported that no Fire had been made that day, no candle lighted, therefore it is ſtrongly conjectured to have been ſet on Fire by ſome Popiſh Agents, thoſe Harbegars of ruine, whoſe contagious Noſtrils belch quotidian Flames. But the truth of its being ſet on Fire as yet remaiteth in diſpute.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42664:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
